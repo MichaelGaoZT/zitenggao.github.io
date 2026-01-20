@@ -55,7 +55,7 @@ I am always open to academic discussions and potential collaborations. Please fe
 ## News and Updates
 
 [//]: # (- **Feb 2026**: Very excited to start my Ph.D. journey at HITSZ!)
-- **Jan 2026**: I have just ended my 2-year MLE journey at XPeng Motors, which is an amazing and fruitful experience.
+- **Feb. 2026**: I have just ended my 2 years MLE journey at XPeng Motors, which is an amazing and fruitful experience.
 
 [//]: # (- **Jan 2026**：Excited to receive an Honorary Mention Award in the 2025 IEEE ComSoc Student Competition!)
 
@@ -66,12 +66,16 @@ I am always open to academic discussions and potential collaborations. Please fe
 
 <br>
 
-## Chat with me
+## TODO:Chat with me
 
-**Dec 2025:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Hanlin Cai](https://caihanlin.com/)). Feel free to reach out!
+[//]: # (**Dec 2025:** I have set up the [online-coffee-time]&#40;https://calendly.com/lancecai/meet-with-lance&#41; &#40;Inspired by [Hanlin Cai]&#40;https://caihanlin.com/&#41;&#41;. Feel free to reach out!)
 
-<!-- Calendly inline widget begin -->
+[//]: # ()
+[//]: # (<!-- Calendly inline widget begin -->)
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+[//]: # ()
+[//]: # (<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>)
+
+[//]: # (<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>)
+
+[//]: # (<!-- Calendly inline widget end -->)
