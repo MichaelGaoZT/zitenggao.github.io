@@ -18,15 +18,16 @@ More prior, I got my MS degree in Mechanical Engineering from National Universit
 
 I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **e1010863 [at] u.nus.edu**
 
+**Latest updated in Feb. 2026**
+
 ---
 
 ## Research Interests
 
 [//]: # (- [Internet of Everything]&#40;https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything&#41;)
-- Embodied AI
-- Robotics
-- Autonomous Driving
+- Robotics Learning, Embodied AI, Autonomous Driving
 - Reinforcement Learning, Imitation Learning, VLA
+- End-to-end Planning, Locomotion, Manipulation
 
 ---
 
@@ -34,7 +35,7 @@ I am always open to academic discussions and potential collaborations. Please fe
 ### Career
 - [Xpeng Moters](https://www.xpeng.com/?fromNav=1https://www.xpeng.com/?fromNav=1), <span style="color: #888888;">Guangzhou, China, Dec 2023 - Feb 2026</span>
   - Autonomous Driving Algorithm Engineer (MLE), Autonomous Driving Center
-  - Design and optimize Xplanner(XPENG Motors self-developed planning model)
+  - Design and optimize Xplanner (XPENG Motors self-developed planning model)
   - IL-pretrain, SFT, RLFT
 - [Starj.ai](https://starjourneyai.com/pages/EN_shouye/EN_shouye.html), <span style="color: #888888;">Guangzhou, China, Sep 2023 - Dec 2023</span>
   - Intern Planning Algorithm Engineer
@@ -47,7 +48,7 @@ I am always open to academic discussions and potential collaborations. Please fe
 - NUS (Suzhou) Research Institute (NUSRI), <span style="color: #888888;">Suzhou, China, Sep 2021 - Jun 2022</span>
   - A educational collaboration by NUS and HIT
 - University of Pennsylvania (UPenn), <span style="color: #888888;">Philadelphia, USA, Jan 2019 - Feb 2019</span>
-  - Exchange Student
+  - Exchange student
 
 
 ---
