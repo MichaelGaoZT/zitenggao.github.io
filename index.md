@@ -18,7 +18,7 @@ More prior, I got my MS degree in Mechanical Engineering from National Universit
 
 I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **e1010863 [at] u.nus.edu**
 
-**Latest updated in Feb. 2026**
+**Latest updated: Feb. 2026**
 
 ---
 
@@ -27,7 +27,7 @@ I am always open to academic discussions and potential collaborations. Please fe
 [//]: # (- [Internet of Everything]&#40;https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything&#41;)
 - Robotics Learning, Embodied AI, Autonomous Driving
 - Reinforcement Learning, Imitation Learning, VLA
-- End-to-end Planning, Locomotion, Manipulation
+- Locomotion and Manipulation, End-to-end Planning
 
 ---
 
@@ -54,11 +54,11 @@ I am always open to academic discussions and potential collaborations. Please fe
 ---
 
 ## News and Updates
+[//]: #
+- **Mar. 2026**: Very excited to start my Ph.D. journey at Harbin Institute of Technology, Shenzhen(HITSZ)!
 
 [//]: # (- **Feb 2026**: Very excited to start my Ph.D. journey at HITSZ!)
 - **Feb. 2026**: I have just ended my 2 years MLE journey at XPeng Motors, which is an amazing and fruitful experience.
-
-[//]: # (- **Jan 2026**：Excited to receive an Honorary Mention Award in the 2025 IEEE ComSoc Student Competition!)
 
 [//]: # (- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge Trust and CSC Scholarship!)
 
