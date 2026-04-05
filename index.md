@@ -32,6 +32,14 @@ I am always open to academic discussions and potential collaborations. Please fe
 ---
 
 ## Experience
+<div class="sixth" style="display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: nowrap;">
+<img src="https://michaelgaozt.github.io/images/hitsz_logo_blue.png">
+<img src="https://michaelgaozt.github.io/images/XPeng-Logo.jpg">
+<img src="https://michaelgaozt.github.io/images/NUS_logo.png">
+<img src="https://michaelgaozt.github.io/images/NUSRI_logo.png">
+<img src="https://michaelgaozt.github.io/images/UPenn_logo.png">
+<img src="https://michaelgaozt.github.io/images/HIT_logo_blue.jpg">
+</div>
 ### Career
 - [Xpeng Moters](https://www.xpeng.com/?fromNav=1https://www.xpeng.com/?fromNav=1), <span style="color: #888888;">Guangzhou, China, Dec 2023 - Feb 2026</span>
   - Autonomous Driving Algorithm Engineer (MLE), Autonomous Driving Center
@@ -41,6 +49,8 @@ I am always open to academic discussions and potential collaborations. Please fe
   - Intern Planning Algorithm Engineer
   
 ### Education
+- Harbin Institute of Technology, Shenzhen (HITSZ), <span style="color: #888888;">Harbin, China, Aug 2018 - Jun 2022</span>
+  - Ph.D. student, iLearn-Lab, Computer Science
 - National University of Singapore (NUS), <span style="color: #888888;">Singapore, Jul 2022 - Sep 2023</span>
   - MS, Mechanical Engineering
 - Harbin Institute of Technology (HIT), <span style="color: #888888;">Harbin, China, Aug 2018 - Jun 2022</span>
