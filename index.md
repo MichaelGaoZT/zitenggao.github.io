@@ -16,7 +16,7 @@ Before joining HITSZ, I was a MLE at XPENG Motors, focused on end-to-end autonom
 
 I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **e1010863 [at] u.nus.edu**
 
-**updated: Feb. 2026**
+**updated: Mar. 2026**
 
 ## Research Interests
 - Embodied AI, Autonomous Driving
@@ -40,26 +40,24 @@ I am always open to academic discussions and potential collaborations. Please fe
 
 ### Career
 **[Xpeng Moters](https://www.xpeng.com/?fromNav=1https://www.xpeng.com/?fromNav=1)** | <span style="color: #888888;">Guangzhou, China, Dec 2023 - Feb 2026</span>
-  - Full-time Autonomous Driving Algorithm Engineer (MLE), Autonomous Driving Center
-  - Design and optimize Xplanner (XPENG Motor's self-developed end-to-end model for massive production)
-  - IL-Pretrain, SFT, RLFT
+  >Full-time Autonomous Driving Algorithm Engineer (MLE), Autonomous Driving Center <br>
+  Design and optimize Xplanner (XPENG Motor's self-developed end-to-end model for massive production)<br>
+  IL-Pretrain, SFT, RLFT<br>
 
 **[Starj.ai](https://starjourneyai.com/pages/EN_shouye/EN_shouye.html)** | <span style="color: #888888;">Guangzhou, China, Sep 2023 - Dec 2023</span>
-  - Intern, Planning Algorithm Engineer
+  > Intern, Planning Algorithm Engineer<br>
   
 ### Education
-**Harbin Institute of Technology, Shenzhen (HITSZ)** | <span style="color: #888888;">Shenzhen, China, Mar 2026 - Current</span>
-  - Ph.D. student, iLearn-Lab, Comput er Science
+#### **Harbin Institute of Technology, Shenzhen (HITSZ)** | <span style="color: #888888;">Shenzhen, China, Mar 2026 - Current</span>
+  > Ph.D. student, iLearn-Lab, Computer Science
 
-**National University of Singapore (NUS)** | <span style="color: #888888;">Singapore, Jul 2022 - Sep 2023</span>
-  - MS Mechanical Engineering
+#### **National University of Singapore (NUS)** | <span style="color: #888888;">Singapore, Jul 2022 - Sep 2023</span>
+  > MS Mechanical Engineering
 
-**Harbin Institute of Technology (HIT)** | <span style="color: #888888;">Harbin, China, Aug 2018 - Jun 2022</span>
-  - B.Eng. Mechatronic Engineering
-  - NUS (Suzhou) Research Institute (NUSRI) | <span style="color: #888888;">Suzhou, China, Sep 2021 - Jun 2022</span>
-    - A educational collaboration by NUS and HIT
-  - University of Pennsylvania (UPenn) | <span style="color: #888888;">Philadelphia, USA, Jan 2019 - Feb 2019</span>
-    - Exchange student
+#### **Harbin Institute of Technology (HIT)** | <span style="color: #888888;">Harbin, China, Aug 2018 - Jun 2022</span>
+  >B.Eng. Mechatronic Engineering<br>
+  NUS (Suzhou) Research Institute (NUSRI) | Collaboration by NUS and HIT | <span style="color: #888888;">Suzhou, China, Sep 2021 - Jun 2022</span><br>
+  University of Pennsylvania (UPenn) | Exchange Student | <span style="color: #888888;">Philadelphia, USA, Jan 2019 - Feb 2019</span>
 
 ## Chat with me (TODO)
 
