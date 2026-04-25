@@ -17,6 +17,14 @@ Before joining HITSZ, I was a MLE at XPENG Motors, focused on end-to-end autonom
 I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **e1010863 [at] u.nus.edu**
 
 **updated: Mar. 2026**
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap; width: 100%; gap: 8px; box-sizing: border-box; padding: 0 5px;">
+  <img src="https://michaelgaozt.github.io/images/hitsz_logo_blue.png" style="flex: 1 1 0; height: 45px; width: 100%; object-fit: contain; min-width: 0;">
+  <img src="https://michaelgaozt.github.io/images/XPeng-Logo.jpg" style="flex: 1 1 0; height: 45px; width: 100%; object-fit: contain; min-width: 0;">
+  <img src="https://michaelgaozt.github.io/images/NUS_logo.png" style="flex: 1 1 0; height: 45px; width: 100%; object-fit: contain; min-width: 0;">
+  <img src="https://michaelgaozt.github.io/images/NUSRI_logo.png" style="flex: 1 1 0; height: 45px; width: 100%; object-fit: contain; min-width: 0;">
+  <img src="https://michaelgaozt.github.io/images/UPenn_logo.png" style="flex: 1 1 0; height: 45px; width: 100%; object-fit: contain; min-width: 0;">
+  <img src="https://michaelgaozt.github.io/images/HIT_logo_blue.jpg" style="flex: 1 1 0; height: 45px; width: 100%; object-fit: contain; min-width: 0;">
+</div>
 
 ## Research Interests
 - Embodied AI, Autonomous Driving
@@ -28,16 +36,23 @@ I am always open to academic discussions and potential collaborations. Please fe
 
 - **Feb. 2026**: I have just ended my 2 years MLE journey at XPeng Motors, an amazing and fruitful experience.
 
-## Experience
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap; width: 100%; gap: 8px; box-sizing: border-box; padding: 0 5px;">
-  <img src="https://michaelgaozt.github.io/images/hitsz_logo_blue.png" style="flex: 1 1 0; height: 45px; width: 100%; object-fit: contain; min-width: 0;">
-  <img src="https://michaelgaozt.github.io/images/XPeng-Logo.jpg" style="flex: 1 1 0; height: 45px; width: 100%; object-fit: contain; min-width: 0;">
-  <img src="https://michaelgaozt.github.io/images/NUS_logo.png" style="flex: 1 1 0; height: 45px; width: 100%; object-fit: contain; min-width: 0;">
-  <img src="https://michaelgaozt.github.io/images/NUSRI_logo.png" style="flex: 1 1 0; height: 45px; width: 100%; object-fit: contain; min-width: 0;">
-  <img src="https://michaelgaozt.github.io/images/UPenn_logo.png" style="flex: 1 1 0; height: 45px; width: 100%; object-fit: contain; min-width: 0;">
-  <img src="https://michaelgaozt.github.io/images/HIT_logo_blue.jpg" style="flex: 1 1 0; height: 45px; width: 100%; object-fit: contain; min-width: 0;">
+## Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/TouchAnytining.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video](https://jianyi2004.github.io/TouchAnything-Website/)
+
+Jianyi Zhou, **Ziteng Gao**, Feiyang Hong, Zirui Liu, Guannan Zhang, Weisheng Dai, Ruichen Zhen, Chuqiao Lyu, Haotian Wu, Yinian Mao, Xushi Wang, Yuxiang Jiang, Shuo Yang
+
+*Harbin Institute of Technology, Shenzhen; Meituan Academy of Robotics*
+
+[**Project Page**](https://jianyi2004.github.io/TouchAnything-Website/)
+- The first large-scale multi-view tactile dataset for egocentric hand-object interaction with bimanual 3D hand pose annotations and dense continuous pressure maps.
+</div>
 </div>
 
+
+## Experience
 ### Career
 **[Xpeng Moters](https://www.xpeng.com/?fromNav=1https://www.xpeng.com/?fromNav=1)** | <span style="color: #888888;">Guangzhou, China, Dec 2023 - Feb 2026</span>
   >Full-time Autonomous Driving Algorithm Engineer (MLE), Autonomous Driving Center <br>
