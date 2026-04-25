@@ -37,19 +37,17 @@ I am always open to academic discussions and potential collaborations. Please fe
 - **Feb. 2026**: I have just ended my 2 years MLE journey at XPeng Motors, an amazing and fruitful experience.
 
 ## Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/TouchAnytining.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<img src="https://michaelgaozt.github.io/images/TouchAnytining.png" class="floatpic">
 
-[TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video](https://jianyi2004.github.io/TouchAnything-Website/)
+**TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video**<br>
+[**Project Page**](https://jianyi2004.github.io/TouchAnything-Website/)
 
 Jianyi Zhou, **Ziteng Gao**, Feiyang Hong, Zirui Liu, Guannan Zhang, Weisheng Dai, Ruichen Zhen, Chuqiao Lyu, Haotian Wu, Yinian Mao, Xushi Wang, Yuxiang Jiang, Shuo Yang
 
 *Harbin Institute of Technology, Shenzhen; Meituan Academy of Robotics*
 
-[**Project Page**](https://jianyi2004.github.io/TouchAnything-Website/)
 - The first large-scale multi-view tactile dataset for egocentric hand-object interaction with bimanual 3D hand pose annotations and dense continuous pressure maps.
-</div>
-</div>
+
 
 
 ## Experience
