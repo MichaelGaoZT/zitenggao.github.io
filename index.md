@@ -40,12 +40,9 @@ I am always open to academic discussions and potential collaborations. Please fe
 <img src="https://michaelgaozt.github.io/images/TouchAnytining.png" class="floatpic">
 
 **TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video**<br>
-[**Project Page**](https://jianyi2004.github.io/TouchAnything-Website/)
-
-Jianyi Zhou, **Ziteng Gao**, Feiyang Hong, Zirui Liu, Guannan Zhang, Weisheng Dai, Ruichen Zhen, Chuqiao Lyu, Haotian Wu, Yinian Mao, Xushi Wang, Yuxiang Jiang, Shuo Yang
-
+[Project Page](https://jianyi2004.github.io/TouchAnything-Website/)<br>
+Jianyi Zhou, **Ziteng Gao**, Feiyang Hong, Zirui Liu, Guannan Zhang, Weisheng Dai, Ruichen Zhen, Chuqiao Lyu, Haotian Wu, Yinian Mao, Xushi Wang, Yuxiang Jiang, Shuo Yang<br>
 *Harbin Institute of Technology, Shenzhen; Meituan Academy of Robotics*
-
 - The first large-scale multi-view tactile dataset for egocentric hand-object interaction with bimanual 3D hand pose annotations and dense continuous pressure maps.
 
 
