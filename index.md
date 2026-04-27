@@ -37,8 +37,7 @@ I am always open to academic discussions and potential collaborations. Please fe
 - **Feb. 2026**: I have just ended my 2 years MLE journey at XPeng Motors, an amazing and fruitful experience.
 
 ## Publications
-<img src="https://michaelgaozt.github.io/images/TouchAnytining.png" class="floatpic">
-
+<img src="https://michaelgaozt.github.io/images/TouchAnytining.png" class="floatpic"><br>
 **TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video**<br>
 [Project Page](https://jianyi2004.github.io/TouchAnything-Website/)<br>
 Jianyi Zhou, **Ziteng Gao**, Feiyang Hong, Zirui Liu, Guannan Zhang, Weisheng Dai, Ruichen Zhen, Chuqiao Lyu, Haotian Wu, Yinian Mao, Xushi Wang, Yuxiang Jiang, Shuo Yang<br>
